@@ -1,3 +1,3 @@
 const x = true
 
-console.log
+console.log(x)
