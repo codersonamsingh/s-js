@@ -1,1 +1,1 @@
-console.log(undefined)
+console.log(true)
