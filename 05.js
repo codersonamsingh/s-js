@@ -3,4 +3,5 @@ let sel = 199;
 
 let off = mrp - sel;
 
-let offper = off/mrp*100
+let offper = off/mrp*100;
+console.log(offper)
