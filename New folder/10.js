@@ -6,3 +6,8 @@ if ('a' == 'a'){
 }
 let emailLogin = true
 let googleLogin = false
+if(emailLogin || googleLogin){
+    console.log("Show Logout")
+}else{
+    console.log("Show Login")
+}
