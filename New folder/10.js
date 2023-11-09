@@ -4,3 +4,5 @@ if ('a' == 'a'){
 }else{
     console.log("else block is running")
 }
+let emailLogin = true
+let googleLogin = false
