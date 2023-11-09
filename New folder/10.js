@@ -11,3 +11,10 @@
 //}else{
  //   console.log("Show Login")
 //}
+
+let desingation = 'User'
+if (desingation == 'Admin'){
+    console.log("Give all funtionality")
+}else if (desingation == 'testmanager'){
+    console.log("Give all funtionality")
+}
