@@ -16,5 +16,11 @@ let desingation = 'User'
 if (desingation == 'Admin'){
     console.log("Give all funtionality")
 }else if (desingation == 'testmanager'){
-    console.log("Give all funtionality")
+    console.log("Give test and funtionality")
+}else if (desingation == 'practicemanager'){
+    console.log("Give practice and funtionality")
+}else if (desingation == 'user'){
+    console.log("Give user funtion")
+}else{
+    console.log("Guest User functionality")
 }
