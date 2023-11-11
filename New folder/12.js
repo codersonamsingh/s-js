@@ -1,4 +1,5 @@
 let number = 2
+let day
 switch (new Date().getDate())
 {  case 0: day = "Sunday";
    break;
@@ -20,6 +21,7 @@ switch (new Date().getDate())
   case 6 :
     day = "Saturday";
     break;
+    console.log(day)
 
 
 
