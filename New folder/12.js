@@ -6,6 +6,7 @@ switch (new Date().getDate())
     break;
    case 2 :
     day = "Tuesday";
+    break;
 
 
 
