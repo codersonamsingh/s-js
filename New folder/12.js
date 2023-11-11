@@ -1,3 +1,4 @@
+let number = 2
 switch (new Date().getDate())
 {  case 0: day = "Sunday";
    break;
