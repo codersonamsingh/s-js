@@ -1,0 +1,1 @@
+switch (new Date().getDate())
