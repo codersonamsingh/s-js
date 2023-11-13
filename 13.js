@@ -1,7 +1,7 @@
-function lwk(name) {
-    console.log("welcome " + name)
+function lwk(name,age) {
+    console.log("welcome " + name + " with age " + age)
    
 }
        
-lwk("sonam")
-lwk("ram")
+lwk("sonam",20)
+lwk("ram",18)
