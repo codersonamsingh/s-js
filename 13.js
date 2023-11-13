@@ -1,7 +1,7 @@
-function lwk() {
-    console.log("welcome to sonam")
-    console.log("welcome to learning channel")
+function lwk(name) {
+    console.log("welcome " + name)
+   
 }
        
-lwk()
-lwk()
+lwk("sonam")
+lwk("ram")
