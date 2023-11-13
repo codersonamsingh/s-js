@@ -3,5 +3,5 @@ function lwk(name,age) {
    
 }
        
-lwk("sonam",20)
+lwk("sonam",20) 
 lwk("ram",18)
