@@ -3,3 +3,5 @@ function lwk() {
     console.log("welcome to learning channel")
 }
        
+lwk()
+lwk()
