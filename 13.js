@@ -1,6 +1,6 @@
-function lwk(name,age) {
-    console.log("welcome " + name + " with age " + age)
+function square(num) {
+    return(num*num)
 
 }
-lwk("sonam",20) 
-lwk("ram",18)
+vat tt = square(3)
+console.log(tt)
