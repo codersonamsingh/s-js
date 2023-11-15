@@ -1,12 +1,35 @@
-const ages = [32, 33, 16, 40];
+let arr = [2,10,5,4,9,7];
 
-let newAr = ages.filter (age => age>18)    
+let decend = arr.sort((a,b)= a>b? -1:1);
+//arr.sort(function(a, b{return a-b}))
 
-function checkAdult (age){
-    return age >=18;
-}
-console.log(ages)
-console.log(newAr)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//const ages = [32, 33, 16, 40];
+
+//let newAr = ages.filter (age => age>18)    
+
+//function checkAdult (age){
+    //return age >=18;
+//}
+//console.log(ages)
+//console.log(newAr)
 
 
 
