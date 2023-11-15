@@ -1,14 +1,12 @@
-let arr = [2,10,5,4,9,7];
+const numbers = [65, 44, 12, 4];
 
-let decend = arr.sort((a,b)= a>b? -1:1);
-//arr.sort(function(a, b{return a-b}))
-
+numbers.forEach(myFunction)
 
 
-
-
-
-
+function myFunction (item, index, arr){
+    arr[index] = item * 10;
+}
+console.log(numbers)
 
 
 
@@ -20,6 +18,26 @@ let decend = arr.sort((a,b)= a>b? -1:1);
 
 
 
+
+
+
+//let sum = 0;
+//const numbers = [65, 44, 12, 4];
+//numbers.forEach(myFunction);
+
+//function myFunction(item){
+  //  sum += item;
+//}
+//console.log(sum)
+
+
+//let arr = [2,10,5,4,9,7];
+
+//let decend = arr.sort((a,b)= a>b? 1:-1);
+//arr.sort(function(a, b){return b-a});
+
+//console.log(arr);
+//console.log(decend);
 
 //const ages = [32, 33, 16, 40];
 
