@@ -7,14 +7,10 @@ function level1(){
 }
 level1()
 
-//function level2(){
-    //var name = "shyam"
-    //console.log(name)
-//}
-//level2()
+function level2(){
+    var name = "shyam"
+    console.log(name)
+}
+level2()
 
-//function level3(){
-    //var name = ""
-    //console.log()
-//}
-//level3()
+console.log(name)
