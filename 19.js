@@ -1,7 +1,7 @@
-let names = ['trump', "ram","sita","sonam","radha"]
-console.log (names.includes("ram"))
-names[names.indexOf("ram")] = "krish"
-console.log(names)
+// slice //
+const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"]
+const citrus = fruits.slice(1,3);
+console.log(citrus)
 
 
 
@@ -12,11 +12,10 @@ console.log(names)
 
 
 
-
-
-
-
-
+//let names = ['trump', "ram","sita","sonam","radha"]
+//console.log (names.includes("ram"))
+//names[names.indexOf("ram")] = "krish"
+//console.log(names)
 
 
 // / concat //
