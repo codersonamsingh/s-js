@@ -1,7 +1,7 @@
 let names =["Learn", "with"]
 //names.push("sonam")
 //names.pop()
-names.shift
+names.unshift("onYoutube")
 console.log(names)
 
 
