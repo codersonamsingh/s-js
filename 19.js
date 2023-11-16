@@ -1,6 +1,7 @@
 let names = ['trump', "ram","sita","sonam","radha"]
-let isthere = names.includes("sonam")
-console.log(isthere)
+console.log (names.includes("ram"))
+names[names.indexOf("ram")] = "krish"
+console.log(names)
 
 
 
