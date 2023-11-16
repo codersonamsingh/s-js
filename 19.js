@@ -1,4 +1,6 @@
-
+let names = ['trump', "ram","sita","sonam","radha"]
+let isthere = names.includes("sonam")
+console.log(isthere)
 
 
 
