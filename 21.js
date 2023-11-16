@@ -2,7 +2,7 @@ let person = {
     firstName: 'Sonam',
     lastName:"singh",
     age:22,
-    fullName: function(){return this.firstname +" "+ this.lastname}
+    fullName: function(){return this.firstName +" "+ this.lastName}
     //'eye colour' : "black"
 }
-console.log(person.fullName)
+console.log(person.firstName.toUppercase())
