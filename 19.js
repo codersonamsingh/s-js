@@ -1,7 +1,8 @@
 let names =["Learn", "with"]
-//names.push("sonam")
-//names.pop()
-names.unshift("onYoutube")
+//names.push("sonam") // to add in last
+//names.pop() // to remove from last
+//names.unshift("onYoutube") // to add in start
+names.shift()//to remove from start
 console.log(names)
 
 
