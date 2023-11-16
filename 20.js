@@ -1,5 +1,5 @@
 let person = {
-    firstname = 'sonam',
+    firstname:'sonam',
     age:22,
     is18: true,
     'eye colour' : "black"
