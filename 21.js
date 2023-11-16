@@ -5,4 +5,4 @@ let person = {
     fullName: function(){return this.firstName +" "+ this.lastName}
     //'eye colour' : "black"
 }
-console.log(person.firstName.toUppercase())
+console.log(person.firstName.toUpperCase())
