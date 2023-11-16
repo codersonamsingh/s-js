@@ -1,15 +1,20 @@
+let names =["Learn", "with"]
+names.push("sonam")
+console.log(names)
+
+
+
+
+
+
+
+
+
+
 // slice //
-const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"]
-const citrus = fruits.slice(1,3);
-console.log(citrus)
-
-
-
-
-
-
-
-
+//const fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"]
+//const citrus = fruits.slice(1,3);
+//console.log(citrus)
 
 
 //let names = ['trump', "ram","sita","sonam","radha"]
