@@ -9,7 +9,10 @@
 //console.log(person.firstName.toUpperCase())
 
 let person = {
-    name :
+    name :"sonam"
+    medicalReport:{
+        
+    }
 }
 
 
