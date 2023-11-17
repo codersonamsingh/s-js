@@ -9,9 +9,11 @@
 //console.log(person.firstName.toUpperCase())
 
 let person = {
-    name :"sonam"
+    name :"sonam",
     medicalReport:{
-        
+        sugarLevel:"Normal",
+        glucose :"Level"
+
     }
 }
 
