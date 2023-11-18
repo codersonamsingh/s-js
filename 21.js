@@ -16,6 +16,6 @@ let person = {
 
     }
 }
-console.log()
+console.log(person.medicalReport.sugarLevel)
 
 
