@@ -1,7 +1,4 @@
-let person = {
-    firstName: 'Sonam',
-    lastName: "singh",
-    age:22,
-    fullName: function(){this.firstName +" "+ this.lastName}
+for ( X=0; X<=5; X++){
+    //0 1 2 3 4 5 
+    console.log("l love learn with")
 }
-console.log(person.lastName)
