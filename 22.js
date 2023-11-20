@@ -4,4 +4,4 @@ let person = {
     age:22,
     fullName: function(){this.firstName}
 }
-console.log
+console.log(fullName)
