@@ -5,7 +5,8 @@
 //}
 //console.log(sum)
 
-const arrya1 = ['a','b','c'];
+//const arrya1 = ['a','b','c'];
+let Name = "Sonam"
 for (const element of arrya1){
     console.log(element);
 }
