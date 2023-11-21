@@ -6,7 +6,17 @@
 //console.log(sum)
 
 //const arrya1 = ['a','b','c'];
-let Name = "Sonam"
-for (const element of arrya1){
-    console.log(element);
+//let Name = "Sonam"
+//for (const i of Name){
+  //  console.log(i);
+//}
+
+var person = {
+  firstName: 'sonam',
+  lastName: 'Doe',
+  dob: '29-12-2345'
+}
+
+for(var prop in person){
+  console.log(prop + ':' + person[prop]);
 }
